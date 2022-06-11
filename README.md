@@ -22,7 +22,7 @@ Throughout the entire period:
 
 <br>
 <details>
-<summary> Certificate :</summary>
+<summary>Project Certificate :</summary>
 <br>
 <img width="100%" src="certificate\project-certificate\project-certificate-1.png"/>
 </details>
