@@ -11,7 +11,6 @@ Throughout the entire period:
 
 - I worked on Industrial Drawings and learned how to draw Building Plans on a regular basis, which strengthened my practical approach to Equipment Designing.
 
-- I worked on Industrial Drawings and learned how to draw Building Plans on a regular basis, which strengthened my practical approach to Equipment Designing. 
 - Learn how to use AutoCAD 2D and 3D to create, modify, and print drawings by using its features, commands, and techniques.
 <br>
 <details>
